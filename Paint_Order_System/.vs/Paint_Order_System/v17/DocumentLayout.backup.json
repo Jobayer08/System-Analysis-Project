@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|f:\\system_project\\paint_order_system\\paint_order_system\\reports\\customerreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|solutionrelative:paint_order_system\\reports\\customerreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|F:\\SYSTEM_PROJECT\\Paint_Order_System\\paint_order_system\\reports\\orderreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|solutionrelative:paint_order_system\\reports\\orderreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|F:\\SYSTEM_PROJECT\\Paint_Order_System\\paint_order_system\\reports\\productreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|solutionrelative:paint_order_system\\reports\\productreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|F:\\SYSTEM_PROJECT\\Paint_Order_System\\paint_order_system\\reports\\orderdetailreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|solutionrelative:paint_order_system\\reports\\orderdetailreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|F:\\SYSTEM_PROJECT\\Paint_Order_System\\paint_order_system\\reports\\customerreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|solutionrelative:paint_order_system\\reports\\customerreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|F:\\SYSTEM_PROJECT\\Paint_Order_System\\paint_order_system\\reports\\customerreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|solutionrelative:paint_order_system\\reports\\customerreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|F:\\SYSTEM_PROJECT\\Paint_Order_System\\paint_order_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|solutionrelative:paint_order_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|F:\\SYSTEM_PROJECT\\Paint_Order_System\\paint_order_system\\views\\reports\\filteredorderreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|solutionrelative:paint_order_system\\views\\reports\\filteredorderreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|F:\\SYSTEM_PROJECT\\Paint_Order_System\\paint_order_system\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|solutionrelative:paint_order_system\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|F:\\SYSTEM_PROJECT\\Paint_Order_System\\paint_order_system\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8FF184-1955-4D26-B68D-BD4182C4CD1B}|Paint_Order_System\\Paint_Order_System.csproj|solutionrelative:paint_order_system\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\CrystalReport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Paint_Order_System\\Reports\\CrystalReport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductReport.rpt",
+              "DocumentMoniker": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\ProductReport.rpt",
+              "RelativeDocumentMoniker": "Paint_Order_System\\Reports\\ProductReport.rpt",
+              "ToolTip": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\ProductReport.rpt",
+              "RelativeToolTip": "Paint_Order_System\\Reports\\ProductReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARpSURBVEhLtZRLbFRVGMd/9/2YmTuP1j6AlgYSm/Jqa\u002BVVYgxx4UKj1qAikLAgsnClYWHiCmPEsDJBY9FoAgsiGjUBMRKDimkFFSioFBZtYyl9USil0047nbn3HBczbcowFTb8b76ck\u002B/kO/9z/\u002Bf/HXiYkFIqhbklVUuXrVrduK4wXwxCCnHl8j8X\u002Bq//21O4tiBatmzbNXQzKcaSU/eNgRt3/E8PH7vohsLRwn1moRYmAEKOSTRsFw0vZBMJWURcCy9kqQ31DfVffXdm1DBNu3AfFiJYCFJKJBJkbq5qKom4Q0VpVP3482/OL15S82hhzQMTSCHzE4mUEiFBVRRinktpPExTY33d3n0HjhqGac2vuy\u002BBlCCERCBzo5AIIZBCABByDLywTWkirDQ1NTZ8e/Lc5Pz6BQmkzEf\u002Bm5VFzq1JfD8gOZEm6/uYukZ1RQxFUbT5\u002B/wPQU4KKSRSgJC56Jy6Qmt/Kyl/CkVVcR0LxzawbYNI2EZV73a\u002BakcXl9tepWdFKvT5Czmdc1rLvCzj/jjHU9/T2v8J\u002B7v3M5mZIBACISRSCKTM39M86Ps\u002Bazv0V89Eb\u002B/wxJ2etoNdocrHVviByEuRO71EMuLfoiN7gUV6JS42H/V/SCqY4s3qPZSYJXk574W2/dWXB55qKm9oXpHY6VRu2NydrFj/299D5tT0DBUJF9tSGfeTnM38gaPZJLQ47SPtDM8M05m6zJQ/zQZvE5pUMQyd3oFRjhxqfWeOoG5N841UOjgbZFKn1teFE7VV3rKuEc3\u002B6eItfjjTx0hqlAtlJ5CKT4leQkQN8evQafqT/QTZgItjHQhfsiHejGXqXCskaPv5uB/42UnTjQ5PpmlPhBRrY1202TAdro/pdA7eoCfdTp/RQY/Sw1XlKp3nOhm9NIrsFjjXbFZGG2gqW0vItegbvH0XgQrw44kvOPD\u002BnvR7b\u002B8aTM/4XdXlLk/XW2xa4WEq1Uz/\u002BQxDXTa92V66/S7Ghm7DdYExaPBK1U6eq3iJ6elM0Uues\u002BlEcozhgWvyy8MfBFHPpSzu0FijUuI5mOoy1PNbkCPlKFJBpiVGxqClYSsvrttGNOJhWQaKcs/jXLwPdE3FdS2qSnVCroZquBhBLZlTLfhDJbjSZfu63ex44jXiXpR4zMM0jaIuKkqgKAqaqmCZKp4tQNXRnBhmqh7l2A5eb3iLFx7fStyLEYtFMA0DiVLUp0UJIPf\u002BTKYlQ\u002BMSRTdxQg5lZVHWVNXxZM1mShNxYtEIpmEiABGI3JNSgKIEUkqm0z5nu3wmA4d4NMTyCpvaJQ7Pr48Ri3vEYlFM08x1u5AIeLA/kEgy2YATl2b4vT9BzaJH2FjrUF9j0NKksrxEYOo6uqblulzkOz6QFDERc9e\u002B\u002B413ldWNzW7p0pV7hebsyQQGIQvCFrh6Bs\u002BcIRHRMHUNirhlFh2dfTy7ec3cwQsINjql8fBaVVVWKXnPqaqSFUKm0zPZzNdHDsqx2zdnSxZE2y8njxbmHhr\u002BA6b\u002BDV3NpoS2AAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-06-14T15:51:19.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailReport.rpt",
+              "DocumentMoniker": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\OrderDetailReport.rpt",
+              "RelativeDocumentMoniker": "Paint_Order_System\\Reports\\OrderDetailReport.rpt",
+              "ToolTip": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\OrderDetailReport.rpt",
+              "RelativeToolTip": "Paint_Order_System\\Reports\\OrderDetailReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARpSURBVEhLtZRLbFRVGMd/9/2YmTuP1j6AlgYSm/Jqa\u002BVVYgxx4UKj1qAikLAgsnClYWHiCmPEsDJBY9FoAgsiGjUBMRKDimkFFSioFBZtYyl9USil0047nbn3HBczbcowFTb8b76ck\u002B/kO/9z/\u002Bf/HXiYkFIqhbklVUuXrVrduK4wXwxCCnHl8j8X\u002Bq//21O4tiBatmzbNXQzKcaSU/eNgRt3/E8PH7vohsLRwn1moRYmAEKOSTRsFw0vZBMJWURcCy9kqQ31DfVffXdm1DBNu3AfFiJYCFJKJBJkbq5qKom4Q0VpVP3482/OL15S82hhzQMTSCHzE4mUEiFBVRRinktpPExTY33d3n0HjhqGac2vuy\u002BBlCCERCBzo5AIIZBCABByDLywTWkirDQ1NTZ8e/Lc5Pz6BQmkzEf\u002Bm5VFzq1JfD8gOZEm6/uYukZ1RQxFUbT5\u002B/wPQU4KKSRSgJC56Jy6Qmt/Kyl/CkVVcR0LxzawbYNI2EZV73a\u002BakcXl9tepWdFKvT5Czmdc1rLvCzj/jjHU9/T2v8J\u002B7v3M5mZIBACISRSCKTM39M86Ps\u002Bazv0V89Eb\u002B/wxJ2etoNdocrHVviByEuRO71EMuLfoiN7gUV6JS42H/V/SCqY4s3qPZSYJXk574W2/dWXB55qKm9oXpHY6VRu2NydrFj/299D5tT0DBUJF9tSGfeTnM38gaPZJLQ47SPtDM8M05m6zJQ/zQZvE5pUMQyd3oFRjhxqfWeOoG5N841UOjgbZFKn1teFE7VV3rKuEc3\u002B6eItfjjTx0hqlAtlJ5CKT4leQkQN8evQafqT/QTZgItjHQhfsiHejGXqXCskaPv5uB/42UnTjQ5PpmlPhBRrY1202TAdro/pdA7eoCfdTp/RQY/Sw1XlKp3nOhm9NIrsFjjXbFZGG2gqW0vItegbvH0XgQrw44kvOPD\u002BnvR7b\u002B8aTM/4XdXlLk/XW2xa4WEq1Uz/\u002BQxDXTa92V66/S7Ghm7DdYExaPBK1U6eq3iJ6elM0Uues\u002BlEcozhgWvyy8MfBFHPpSzu0FijUuI5mOoy1PNbkCPlKFJBpiVGxqClYSsvrttGNOJhWQaKcs/jXLwPdE3FdS2qSnVCroZquBhBLZlTLfhDJbjSZfu63ex44jXiXpR4zMM0jaIuKkqgKAqaqmCZKp4tQNXRnBhmqh7l2A5eb3iLFx7fStyLEYtFMA0DiVLUp0UJIPf\u002BTKYlQ\u002BMSRTdxQg5lZVHWVNXxZM1mShNxYtEIpmEiABGI3JNSgKIEUkqm0z5nu3wmA4d4NMTyCpvaJQ7Pr48Ri3vEYlFM08x1u5AIeLA/kEgy2YATl2b4vT9BzaJH2FjrUF9j0NKksrxEYOo6uqblulzkOz6QFDERc9e\u002B\u002B413ldWNzW7p0pV7hebsyQQGIQvCFrh6Bs\u002BcIRHRMHUNirhlFh2dfTy7ec3cwQsINjql8fBaVVVWKXnPqaqSFUKm0zPZzNdHDsqx2zdnSxZE2y8njxbmHhr\u002BA6b\u002BDV3NpoS2AAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-06-14T15:46:19.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerReport.cs",
+              "DocumentMoniker": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\CustomerReport.cs",
+              "RelativeDocumentMoniker": "Paint_Order_System\\Reports\\CustomerReport.cs",
+              "ToolTip": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\CustomerReport.cs",
+              "RelativeToolTip": "Paint_Order_System\\Reports\\CustomerReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:41:46.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerReport.rpt",
+              "DocumentMoniker": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\CustomerReport.rpt",
+              "RelativeDocumentMoniker": "Paint_Order_System\\Reports\\CustomerReport.rpt",
+              "ToolTip": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\CustomerReport.rpt",
+              "RelativeToolTip": "Paint_Order_System\\Reports\\CustomerReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARpSURBVEhLtZRLbFRVGMd/9/2YmTuP1j6AlgYSm/Jqa\u002BVVYgxx4UKj1qAikLAgsnClYWHiCmPEsDJBY9FoAgsiGjUBMRKDimkFFSioFBZtYyl9USil0047nbn3HBczbcowFTb8b76ck\u002B/kO/9z/\u002Bf/HXiYkFIqhbklVUuXrVrduK4wXwxCCnHl8j8X\u002Bq//21O4tiBatmzbNXQzKcaSU/eNgRt3/E8PH7vohsLRwn1moRYmAEKOSTRsFw0vZBMJWURcCy9kqQ31DfVffXdm1DBNu3AfFiJYCFJKJBJkbq5qKom4Q0VpVP3482/OL15S82hhzQMTSCHzE4mUEiFBVRRinktpPExTY33d3n0HjhqGac2vuy\u002BBlCCERCBzo5AIIZBCABByDLywTWkirDQ1NTZ8e/Lc5Pz6BQmkzEf\u002Bm5VFzq1JfD8gOZEm6/uYukZ1RQxFUbT5\u002B/wPQU4KKSRSgJC56Jy6Qmt/Kyl/CkVVcR0LxzawbYNI2EZV73a\u002BakcXl9tepWdFKvT5Czmdc1rLvCzj/jjHU9/T2v8J\u002B7v3M5mZIBACISRSCKTM39M86Ps\u002Bazv0V89Eb\u002B/wxJ2etoNdocrHVviByEuRO71EMuLfoiN7gUV6JS42H/V/SCqY4s3qPZSYJXk574W2/dWXB55qKm9oXpHY6VRu2NydrFj/299D5tT0DBUJF9tSGfeTnM38gaPZJLQ47SPtDM8M05m6zJQ/zQZvE5pUMQyd3oFRjhxqfWeOoG5N841UOjgbZFKn1teFE7VV3rKuEc3\u002B6eItfjjTx0hqlAtlJ5CKT4leQkQN8evQafqT/QTZgItjHQhfsiHejGXqXCskaPv5uB/42UnTjQ5PpmlPhBRrY1202TAdro/pdA7eoCfdTp/RQY/Sw1XlKp3nOhm9NIrsFjjXbFZGG2gqW0vItegbvH0XgQrw44kvOPD\u002BnvR7b\u002B8aTM/4XdXlLk/XW2xa4WEq1Uz/\u002BQxDXTa92V66/S7Ghm7DdYExaPBK1U6eq3iJ6elM0Uues\u002BlEcozhgWvyy8MfBFHPpSzu0FijUuI5mOoy1PNbkCPlKFJBpiVGxqClYSsvrttGNOJhWQaKcs/jXLwPdE3FdS2qSnVCroZquBhBLZlTLfhDJbjSZfu63ex44jXiXpR4zMM0jaIuKkqgKAqaqmCZKp4tQNXRnBhmqh7l2A5eb3iLFx7fStyLEYtFMA0DiVLUp0UJIPf\u002BTKYlQ\u002BMSRTdxQg5lZVHWVNXxZM1mShNxYtEIpmEiABGI3JNSgKIEUkqm0z5nu3wmA4d4NMTyCpvaJQ7Pr48Ri3vEYlFM08x1u5AIeLA/kEgy2YATl2b4vT9BzaJH2FjrUF9j0NKksrxEYOo6uqblulzkOz6QFDERc9e\u002B\u002B413ldWNzW7p0pV7hebsyQQGIQvCFrh6Bs\u002BcIRHRMHUNirhlFh2dfTy7ec3cwQsINjql8fBaVVVWKXnPqaqSFUKm0zPZzNdHDsqx2zdnSxZE2y8njxbmHhr\u002BA6b\u002BDV3NpoS2AAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-06-13T05:41:21.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderReport.rpt",
+              "DocumentMoniker": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\OrderReport.rpt",
+              "RelativeDocumentMoniker": "Paint_Order_System\\Reports\\OrderReport.rpt",
+              "ToolTip": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\OrderReport.rpt",
+              "RelativeToolTip": "Paint_Order_System\\Reports\\OrderReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARpSURBVEhLtZRLbFRVGMd/9/2YmTuP1j6AlgYSm/Jqa\u002BVVYgxx4UKj1qAikLAgsnClYWHiCmPEsDJBY9FoAgsiGjUBMRKDimkFFSioFBZtYyl9USil0047nbn3HBczbcowFTb8b76ck\u002B/kO/9z/\u002Bf/HXiYkFIqhbklVUuXrVrduK4wXwxCCnHl8j8X\u002Bq//21O4tiBatmzbNXQzKcaSU/eNgRt3/E8PH7vohsLRwn1moRYmAEKOSTRsFw0vZBMJWURcCy9kqQ31DfVffXdm1DBNu3AfFiJYCFJKJBJkbq5qKom4Q0VpVP3482/OL15S82hhzQMTSCHzE4mUEiFBVRRinktpPExTY33d3n0HjhqGac2vuy\u002BBlCCERCBzo5AIIZBCABByDLywTWkirDQ1NTZ8e/Lc5Pz6BQmkzEf\u002Bm5VFzq1JfD8gOZEm6/uYukZ1RQxFUbT5\u002B/wPQU4KKSRSgJC56Jy6Qmt/Kyl/CkVVcR0LxzawbYNI2EZV73a\u002BakcXl9tepWdFKvT5Czmdc1rLvCzj/jjHU9/T2v8J\u002B7v3M5mZIBACISRSCKTM39M86Ps\u002Bazv0V89Eb\u002B/wxJ2etoNdocrHVviByEuRO71EMuLfoiN7gUV6JS42H/V/SCqY4s3qPZSYJXk574W2/dWXB55qKm9oXpHY6VRu2NydrFj/299D5tT0DBUJF9tSGfeTnM38gaPZJLQ47SPtDM8M05m6zJQ/zQZvE5pUMQyd3oFRjhxqfWeOoG5N841UOjgbZFKn1teFE7VV3rKuEc3\u002B6eItfjjTx0hqlAtlJ5CKT4leQkQN8evQafqT/QTZgItjHQhfsiHejGXqXCskaPv5uB/42UnTjQ5PpmlPhBRrY1202TAdro/pdA7eoCfdTp/RQY/Sw1XlKp3nOhm9NIrsFjjXbFZGG2gqW0vItegbvH0XgQrw44kvOPD\u002BnvR7b\u002B8aTM/4XdXlLk/XW2xa4WEq1Uz/\u002BQxDXTa92V66/S7Ghm7DdYExaPBK1U6eq3iJ6elM0Uues\u002BlEcozhgWvyy8MfBFHPpSzu0FijUuI5mOoy1PNbkCPlKFJBpiVGxqClYSsvrttGNOJhWQaKcs/jXLwPdE3FdS2qSnVCroZquBhBLZlTLfhDJbjSZfu63ex44jXiXpR4zMM0jaIuKkqgKAqaqmCZKp4tQNXRnBhmqh7l2A5eb3iLFx7fStyLEYtFMA0DiVLUp0UJIPf\u002BTKYlQ\u002BMSRTdxQg5lZVHWVNXxZM1mShNxYtEIpmEiABGI3JNSgKIEUkqm0z5nu3wmA4d4NMTyCpvaJQ7Pr48Ri3vEYlFM08x1u5AIeLA/kEgy2YATl2b4vT9BzaJH2FjrUF9j0NKksrxEYOo6uqblulzkOz6QFDERc9e\u002B\u002B413ldWNzW7p0pV7hebsyQQGIQvCFrh6Bs\u002BcIRHRMHUNirhlFh2dfTy7ec3cwQsINjql8fBaVVVWKXnPqaqSFUKm0zPZzNdHDsqx2zdnSxZE2y8njxbmHhr\u002BA6b\u002BDV3NpoS2AAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-06-14T06:55:34.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerReport.cs [Design]",
+              "DocumentMoniker": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\CustomerReport.cs",
+              "RelativeDocumentMoniker": "Paint_Order_System\\Reports\\CustomerReport.cs",
+              "ToolTip": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\CustomerReport.cs [Design]",
+              "RelativeToolTip": "Paint_Order_System\\Reports\\CustomerReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:41:42.581Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Paint_Order_System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Paint_Order_System\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T07:11:59.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilteredOrderReport.cshtml",
+              "DocumentMoniker": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Views\\Reports\\FilteredOrderReport.cshtml",
+              "RelativeDocumentMoniker": "Paint_Order_System\\Views\\Reports\\FilteredOrderReport.cshtml",
+              "ToolTip": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Views\\Reports\\FilteredOrderReport.cshtml",
+              "RelativeToolTip": "Paint_Order_System\\Views\\Reports\\FilteredOrderReport.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T06:29:45.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Paint_Order_System\\Controllers\\ReportsController.cs",
+              "ToolTip": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Paint_Order_System\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:30:40.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Paint_Order_System\\Controllers\\ProductsController.cs",
+              "ToolTip": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Paint_Order_System\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:05:43.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CrystalReport1.rpt",
+              "DocumentMoniker": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\CrystalReport1.rpt",
+              "RelativeDocumentMoniker": "Paint_Order_System\\Reports\\CrystalReport1.rpt",
+              "ToolTip": "F:\\SYSTEM_PROJECT\\Paint_Order_System\\Paint_Order_System\\Reports\\CrystalReport1.rpt",
+              "RelativeToolTip": "Paint_Order_System\\Reports\\CrystalReport1.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARpSURBVEhLtZRLbFRVGMd/9/2YmTuP1j6AlgYSm/Jqa\u002BVVYgxx4UKj1qAikLAgsnClYWHiCmPEsDJBY9FoAgsiGjUBMRKDimkFFSioFBZtYyl9USil0047nbn3HBczbcowFTb8b76ck\u002B/kO/9z/\u002Bf/HXiYkFIqhbklVUuXrVrduK4wXwxCCnHl8j8X\u002Bq//21O4tiBatmzbNXQzKcaSU/eNgRt3/E8PH7vohsLRwn1moRYmAEKOSTRsFw0vZBMJWURcCy9kqQ31DfVffXdm1DBNu3AfFiJYCFJKJBJkbq5qKom4Q0VpVP3482/OL15S82hhzQMTSCHzE4mUEiFBVRRinktpPExTY33d3n0HjhqGac2vuy\u002BBlCCERCBzo5AIIZBCABByDLywTWkirDQ1NTZ8e/Lc5Pz6BQmkzEf\u002Bm5VFzq1JfD8gOZEm6/uYukZ1RQxFUbT5\u002B/wPQU4KKSRSgJC56Jy6Qmt/Kyl/CkVVcR0LxzawbYNI2EZV73a\u002BakcXl9tepWdFKvT5Czmdc1rLvCzj/jjHU9/T2v8J\u002B7v3M5mZIBACISRSCKTM39M86Ps\u002Bazv0V89Eb\u002B/wxJ2etoNdocrHVviByEuRO71EMuLfoiN7gUV6JS42H/V/SCqY4s3qPZSYJXk574W2/dWXB55qKm9oXpHY6VRu2NydrFj/299D5tT0DBUJF9tSGfeTnM38gaPZJLQ47SPtDM8M05m6zJQ/zQZvE5pUMQyd3oFRjhxqfWeOoG5N841UOjgbZFKn1teFE7VV3rKuEc3\u002B6eItfjjTx0hqlAtlJ5CKT4leQkQN8evQafqT/QTZgItjHQhfsiHejGXqXCskaPv5uB/42UnTjQ5PpmlPhBRrY1202TAdro/pdA7eoCfdTp/RQY/Sw1XlKp3nOhm9NIrsFjjXbFZGG2gqW0vItegbvH0XgQrw44kvOPD\u002BnvR7b\u002B8aTM/4XdXlLk/XW2xa4WEq1Uz/\u002BQxDXTa92V66/S7Ghm7DdYExaPBK1U6eq3iJ6elM0Uues\u002BlEcozhgWvyy8MfBFHPpSzu0FijUuI5mOoy1PNbkCPlKFJBpiVGxqClYSsvrttGNOJhWQaKcs/jXLwPdE3FdS2qSnVCroZquBhBLZlTLfhDJbjSZfu63ex44jXiXpR4zMM0jaIuKkqgKAqaqmCZKp4tQNXRnBhmqh7l2A5eb3iLFx7fStyLEYtFMA0DiVLUp0UJIPf\u002BTKYlQ\u002BMSRTdxQg5lZVHWVNXxZM1mShNxYtEIpmEiABGI3JNSgKIEUkqm0z5nu3wmA4d4NMTyCpvaJQ7Pr48Ri3vEYlFM08x1u5AIeLA/kEgy2YATl2b4vT9BzaJH2FjrUF9j0NKksrxEYOo6uqblulzkOz6QFDERc9e\u002B\u002B413ldWNzW7p0pV7hebsyQQGIQvCFrh6Bs\u002BcIRHRMHUNirhlFh2dfTy7ec3cwQsINjql8fBaVVVWKXnPqaqSFUKm0zPZzNdHDsqx2zdnSxZE2y8njxbmHhr\u002BA6b\u002BDV3NpoS2AAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-06-12T13:44:55.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

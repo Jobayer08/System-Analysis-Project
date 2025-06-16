@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Reports";
+}
+
+<h2>Report Menu</h2>
+
+<ul class="list-group">
+    <li class="list-group-item">
+        @Html.ActionLink("Customer Report", "CustomerReport", "Reports")
+    </li>
+    <li class="list-group-item">
+        @Html.ActionLink("Product Report", "ProductReport", "Reports")
+    </li>
+    <li class="list-group-item">
+        @Html.ActionLink("Order Report", "OrderReport", "Reports")
+    </li>
+    <li class="list-group-item">
+        @Html.ActionLink("Order Detail Report", "OrderDetailReport", "Reports")
+    </li>
+</ul>

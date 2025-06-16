@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Paint_Order_System.Models.OrderDetail>
+
+@{
+    ViewBag.Title = "Order Details";
+}
+
+<h2 class="mb-3">Order Details</h2>
+
+<p>
+    @Html.ActionLink("Add New Detail", "Create", null, new { @class = "btn btn-primary mb-3" })
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().Quantity)</th>
+            <th>@Html.DisplayNameFor(model => model.First().UnitPrice)</th>
+            <th>Order ID</th>
+            <th>Product Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Quantity</td>
+                <td>@(item.UnitPrice.HasValue ? item.UnitPrice.Value.ToString("F2") : "")</td>
+
+
+                <td>@item.Order.OrderID</td>
+                <td>@item.Product.ProductName</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.OrderDetailID }, new { @class = "btn btn-sm btn-warning" }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.OrderDetailID }, new { @class = "btn btn-sm btn-info" }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.OrderDetailID }, new { @class = "btn btn-sm btn-danger" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

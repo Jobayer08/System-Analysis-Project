@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Filtered Order Report";
+}
+
+<h2>Filter Order Report by Date</h2>
+
+@using (Html.BeginForm("FilteredOrderReport", "Reports", FormMethod.Post))
+{
+    <div>
+        <label>From Date:</label>
+        <input type="date" name="fromDate" required />
+    </div>
+    <div>
+        <label>To Date:</label>
+        <input type="date" name="toDate" required />
+    </div>
+    <br />
+    <button type="submit">Generate Report</button>
+}

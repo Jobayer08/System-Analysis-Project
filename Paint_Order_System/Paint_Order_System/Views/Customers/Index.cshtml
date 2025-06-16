@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Paint_Order_System.Models.Customer>
+
+@{
+    ViewBag.Title = "Customers";
+}
+
+<h2 class="mb-3">Customers</h2>
+
+<p>
+    @Html.ActionLink("Create New Customer", "Create", null, new { @class = "btn btn-primary mb-3" })
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().Name)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Phone)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Email)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Address)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Phone</td>
+                <td>@item.Email</td>
+                <td>@item.Address</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.CustomerID }, new { @class = "btn btn-sm btn-warning" }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.CustomerID }, new { @class = "btn btn-sm btn-info" }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.CustomerID }, new { @class = "btn btn-sm btn-danger" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
